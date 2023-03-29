@@ -15,7 +15,7 @@ namespace jenkins_test.Controllers
 
         public IActionResult Index()
         {
-            // code line changed.. 
+            // code changed
             return View();
         }
 
